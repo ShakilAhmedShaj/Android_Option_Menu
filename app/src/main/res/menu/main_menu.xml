@@ -11,7 +11,8 @@
 
         android:id="@+id/share_id"
         android:title="Share"
-        app:showAsAction="never" />
+        app:showAsAction="always"
+        android:icon="@drawable/ic_share_black_24dp"/>
     <item
 
         android:id="@+id/feedback_id"
